@@ -1,8 +1,8 @@
-API_ID = 123456  # Replace with your API ID
-API_HASH = "your_api_hash"
-BOT_TOKEN = "your_bot_token"
+API_ID = 23903140 # Replace with your API ID
+API_HASH = "579f1bcf3eac1660d81ef34b09906012"
+BOT_TOKEN = "8374785442:AAHC3fLXrmG02egqBoGyoMN-CO-_5t7mRvU"
 # Owner Telegram user IDs (for /logs access etc.)
-OWNER_ID = [123456789, 987654321]  # Replace with your actual Telegram user IDs
+OWNER_ID = [1416433622]  # Replace with your actual Telegram user IDs
 
 # Format: source_chat_id ➝ target_chat_id
 #FORWARD_MAP = {
